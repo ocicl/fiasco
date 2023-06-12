@@ -1,0 +1,10 @@
+* fiasco
+
+A test framework for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/capitaomorte/fiasco.git   |
+| commit  | bb47d2f  |
+| systems | fiasco |
+|---------+-------------------------------------------|
+
